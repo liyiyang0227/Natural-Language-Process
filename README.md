@@ -1,7 +1,7 @@
 # Translation Quality Estimation
 We designed 3 different models to predict the translation quality score of a English-Chinese sentence pair. All models are run in Jupyter notebook. We recommand you to use Colab if you don't have a GPU in your device. Because our models are run in GPU.
 ## Prerequisites
-Before using the model, you need to install the follow libraries.<br/>
+Before using the model, you need to install the following libraries.<br/>
 numpy, torchtext, spacy, nltk, gensim, jieba, torch, scipy, tqdm, urllib, math<br/>
 You also need to install some zip files, though they are all contain in the Juypter notebook. You don't have to install them if you run in Jupyter notebook<br/>
 ```bash
