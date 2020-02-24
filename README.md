@@ -18,5 +18,6 @@ You also need to install some zip files, though they are all contain in the Juyp
 !unzip chinese_L-12_H-768_A-12.zip
 !wget https://storage.googleapis.com/bert_models/2018_10_18/uncased_L-12_H-768_A-12.zip
 !unzip uncased_L-12_H-768_A-12.zip
----
-
+```
+## Models
+We upload three Jupyter notebooks and each contains the corresponding model. You can follow the  text in each file to train and test the model. But be careful, some models like the RNN file has two sub-models in it. You need to run the corresponding block to correctly train and test the model.
