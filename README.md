@@ -3,7 +3,7 @@ We designed 3 different models to predict the translation quality score of a Eng
 ## Prerequisites
 Before using the model, you need to install the follow libraries.<br/>
 numpy, torchtext, spacy, nltk, gensim, jieba, torch, scipy, tqdm, urllib, math<br/>
-You also need to install some zip files, though they are all contain in the Juypter notebook.<br/>
+You also need to install some zip files, though they are all contain in the Juypter notebook. You don't have to install them if you run in Jupyter notebook<br/>
 ```bash
 !spacy download en_core_web_md
 !spacy link en_core_web_md en300
