@@ -20,4 +20,9 @@ You also need to install some zip files, though they are all contain in the Juyp
 !unzip uncased_L-12_H-768_A-12.zip
 ```
 ## Models
-We upload three Jupyter notebooks and each contains the corresponding model. You can follow the  text in each file to train and test the model. But be careful, some models like the RNN file has two sub-models in it. You need to run the corresponding block to correctly train and test the model.
+We upload three Jupyter notebooks and each contains the corresponding model. You can follow the  text in each file to train and test the model. But be careful, some models like the RNN file has two sub-models in it. You need to run the corresponding blocks to correctly train and test the model.
+
+## Authors
+Yichong Chen email: yc3919@ic.ac.uk.<br/>
+Yiyang Li email: yl1319@ic.ac.uk<br/>
+Zifeng Niu email: zn19@ic.ac.uk
