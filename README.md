@@ -25,4 +25,3 @@ We upload 4 Jupyter notebooks and each contains the corresponding model. You can
 ## Authors
 Yichong Chen email: yc3919@ic.ac.uk.<br/>
 Yiyang Li email: yl1319@ic.ac.uk<br/>
-Zifeng Niu email: zn19@ic.ac.uk
